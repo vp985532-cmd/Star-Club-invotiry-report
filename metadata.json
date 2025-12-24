@@ -1,0 +1,7 @@
+{
+  "name": "Star Club Inventory Report",
+  "description": "Professional inventory management and reporting system for Star Club. Track stock, sales, and shortages with ease.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
